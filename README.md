@@ -1,0 +1,2 @@
+# Mysql-Tools-PHP
+LINUX环境下用php去调用mysql在开发中经常会遇到，每次重写调用mysql的方法会很麻烦，这里实现Mysql工具类，将调用过程封装，用户只需要调用需要的接口即可
