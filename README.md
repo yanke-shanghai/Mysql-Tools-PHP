@@ -12,6 +12,7 @@ LINUX环境下用php去调用mysql在开发中经常会遇到，每次重写调�
 * mysql_pdo_util.php    ：mysql工具类
 * check_config.php      ：数据库配置信息
 * check_value_util.php  ：示例Demo
+
 ###二、接口解释
 ```php
 ####1.初始化
